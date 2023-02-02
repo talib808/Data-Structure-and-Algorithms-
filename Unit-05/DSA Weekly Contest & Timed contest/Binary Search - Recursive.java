@@ -18,7 +18,6 @@
 
 // n<1000
 
-
 // Output
 // In casekis present among those n numbers, print 1
 
