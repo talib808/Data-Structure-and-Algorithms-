@@ -49,7 +49,6 @@ public class Main {
                 minIndex = i;
             }
         }
-
         boolean isCheck1 = true;
 
         // Check if all elements before
